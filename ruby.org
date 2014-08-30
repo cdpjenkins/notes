@@ -1,4 +1,4 @@
 * Links
-- TODO that other Ruby post
+- http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/
 - http://lorefnon.me/2014/02/02/configuring-emacs-for-rails.html
 
